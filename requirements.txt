@@ -1,0 +1,9 @@
+numpy
+torch>=2.0
+tqdm
+matplotlib
+pandas
+seaborn
+Pillow
+communities==3.0.0
+networkx
