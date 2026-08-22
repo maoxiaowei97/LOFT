@@ -1,6 +1,6 @@
 # Low-Rank Prior-Induced Consistency Flow Matching for Efficient Traffic Imputation
 
-This repository provides the official implementation of **Low-Rank Prior-Induced Consistency Flow Matching for Efficient Traffic Imputation (LOFT)**, published at **KDD 2026**.
+This repository provides the official implementation of **Low-Rank Prior-Induced Consistency Flow Matching for Efficient Traffic Imputation (LOFT)**.
 
 LOFT targets accurate and efficient **probabilistic traffic imputation under highly sparse observations**. The key idea is to avoid learning the full transport from a non-informative Gaussian prior and to reduce the numerical integration cost of flow matching. LOFT first constructs an informative low-rank prior from sparse traffic measurements, then learns a prior-induced flow while progressively rectifying its generative trajectories toward near-linear paths for accurate few-step inference.
 
