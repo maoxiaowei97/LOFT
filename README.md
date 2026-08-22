@@ -1,4 +1,4 @@
-# LOFT: Low-Rank Prior-Induced Consistency Flow Matching for Efficient Traffic Imputation
+# Low-Rank Prior-Induced Consistency Flow Matching for Efficient Traffic Imputation
 
 This repository provides the official implementation of **Low-Rank Prior-Induced Consistency Flow Matching for Efficient Traffic Imputation (LOFT)**, published at **KDD 2026**.
 
@@ -195,6 +195,7 @@ python visualization/LOFT_plt_integration_gif.py \
                Traffic Imputation},
   booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge
                Discovery and Data Mining V.2},
+  pages     = {3691–3702},
   year      = {2026},
   doi       = {10.1145/3770855.3818063}
 }
